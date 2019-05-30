@@ -24,7 +24,7 @@ Firebase Functions based easy way to authenticate ex. for staging server purpose
 }
 ```
 
-### Authorize
+### Authenticate
 
 > https://us-central1-frackpassword.cloudfunctions.net/auth/:endpoint
 
